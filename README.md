@@ -5,6 +5,9 @@ A simple CSS parser in Java.
 
 An oh, it is also very strict. If it finds an unexpected character in your CSS it self-destructs, taking you with you - making it a great tool to validate strict CSS.
 
+## Build status
+[![CircleCI](https://circleci.com/gh/FrankHuxol/osbcp-css-parser/tree/mavenized.svg?style=svg)](https://circleci.com/gh/FrankHuxol/osbcp-css-parser/tree/mavenized) powered by CircleCI
+
 
 Code examples
 ========================================
